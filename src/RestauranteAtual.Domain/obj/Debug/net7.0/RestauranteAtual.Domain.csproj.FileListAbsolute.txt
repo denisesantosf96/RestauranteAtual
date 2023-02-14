@@ -1,0 +1,14 @@
+D:\Programação\Projetos\RestauranteAtual\src\RestauranteAtual.Domain\bin\Debug\net7.0\RestauranteAtual.Domain.deps.json
+D:\Programação\Projetos\RestauranteAtual\src\RestauranteAtual.Domain\bin\Debug\net7.0\RestauranteAtual.Domain.runtimeconfig.json
+D:\Programação\Projetos\RestauranteAtual\src\RestauranteAtual.Domain\bin\Debug\net7.0\RestauranteAtual.Domain.dll
+D:\Programação\Projetos\RestauranteAtual\src\RestauranteAtual.Domain\bin\Debug\net7.0\RestauranteAtual.Domain.pdb
+D:\Programação\Projetos\RestauranteAtual\src\RestauranteAtual.Domain\obj\Debug\net7.0\RestauranteAtual.Domain.csproj.AssemblyReference.cache
+D:\Programação\Projetos\RestauranteAtual\src\RestauranteAtual.Domain\obj\Debug\net7.0\RestauranteAtual.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Projetos\RestauranteAtual\src\RestauranteAtual.Domain\obj\Debug\net7.0\RestauranteAtual.Domain.AssemblyInfoInputs.cache
+D:\Programação\Projetos\RestauranteAtual\src\RestauranteAtual.Domain\obj\Debug\net7.0\RestauranteAtual.Domain.AssemblyInfo.cs
+D:\Programação\Projetos\RestauranteAtual\src\RestauranteAtual.Domain\obj\Debug\net7.0\RestauranteAtual.Domain.csproj.CoreCompileInputs.cache
+D:\Programação\Projetos\RestauranteAtual\src\RestauranteAtual.Domain\obj\Debug\net7.0\RestauranteAtual.Domain.dll
+D:\Programação\Projetos\RestauranteAtual\src\RestauranteAtual.Domain\obj\Debug\net7.0\refint\RestauranteAtual.Domain.dll
+D:\Programação\Projetos\RestauranteAtual\src\RestauranteAtual.Domain\obj\Debug\net7.0\RestauranteAtual.Domain.pdb
+D:\Programação\Projetos\RestauranteAtual\src\RestauranteAtual.Domain\obj\Debug\net7.0\RestauranteAtual.Domain.genruntimeconfig.cache
+D:\Programação\Projetos\RestauranteAtual\src\RestauranteAtual.Domain\obj\Debug\net7.0\ref\RestauranteAtual.Domain.dll

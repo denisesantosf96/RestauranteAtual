@@ -1,0 +1,17 @@
+D:\Programação\Projetos\RestauranteAtual\src\RestauranteAtual.Infrastructure.Data\obj\Debug\net7.0\RestauranteAtual.Infrastructure.Data.csproj.AssemblyReference.cache
+D:\Programação\Projetos\RestauranteAtual\src\RestauranteAtual.Infrastructure.Data\obj\Debug\net7.0\RestauranteAtual.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Projetos\RestauranteAtual\src\RestauranteAtual.Infrastructure.Data\obj\Debug\net7.0\RestauranteAtual.Infrastructure.Data.AssemblyInfoInputs.cache
+D:\Programação\Projetos\RestauranteAtual\src\RestauranteAtual.Infrastructure.Data\obj\Debug\net7.0\RestauranteAtual.Infrastructure.Data.AssemblyInfo.cs
+D:\Programação\Projetos\RestauranteAtual\src\RestauranteAtual.Infrastructure.Data\obj\Debug\net7.0\RestauranteAtual.Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\Programação\Projetos\RestauranteAtual\src\RestauranteAtual.Infrastructure.Data\bin\Debug\net7.0\RestauranteAtual.Infrastructure.Data.deps.json
+D:\Programação\Projetos\RestauranteAtual\src\RestauranteAtual.Infrastructure.Data\bin\Debug\net7.0\RestauranteAtual.Infrastructure.Data.runtimeconfig.json
+D:\Programação\Projetos\RestauranteAtual\src\RestauranteAtual.Infrastructure.Data\bin\Debug\net7.0\RestauranteAtual.Infrastructure.Data.dll
+D:\Programação\Projetos\RestauranteAtual\src\RestauranteAtual.Infrastructure.Data\bin\Debug\net7.0\RestauranteAtual.Infrastructure.Data.pdb
+D:\Programação\Projetos\RestauranteAtual\src\RestauranteAtual.Infrastructure.Data\bin\Debug\net7.0\RestauranteAtual.Domain.dll
+D:\Programação\Projetos\RestauranteAtual\src\RestauranteAtual.Infrastructure.Data\bin\Debug\net7.0\RestauranteAtual.Domain.pdb
+D:\Programação\Projetos\RestauranteAtual\src\RestauranteAtual.Infrastructure.Data\obj\Debug\net7.0\RestauranteAtual.Infrastructure.Data.csproj.CopyComplete
+D:\Programação\Projetos\RestauranteAtual\src\RestauranteAtual.Infrastructure.Data\obj\Debug\net7.0\RestauranteAtual.Infrastructure.Data.dll
+D:\Programação\Projetos\RestauranteAtual\src\RestauranteAtual.Infrastructure.Data\obj\Debug\net7.0\refint\RestauranteAtual.Infrastructure.Data.dll
+D:\Programação\Projetos\RestauranteAtual\src\RestauranteAtual.Infrastructure.Data\obj\Debug\net7.0\RestauranteAtual.Infrastructure.Data.pdb
+D:\Programação\Projetos\RestauranteAtual\src\RestauranteAtual.Infrastructure.Data\obj\Debug\net7.0\RestauranteAtual.Infrastructure.Data.genruntimeconfig.cache
+D:\Programação\Projetos\RestauranteAtual\src\RestauranteAtual.Infrastructure.Data\obj\Debug\net7.0\ref\RestauranteAtual.Infrastructure.Data.dll

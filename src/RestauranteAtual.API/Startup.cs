@@ -1,7 +1,14 @@
-﻿using MediatR;
+﻿using RestauranteAtual.Infrastructure.Data.DataRegistration;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
-using RestauranteAtual.Infrastructure.Data.DataRegistration;
+using System;
 using System.Reflection;
+using MediatR;
 
 namespace RestauranteAtual.API
 {
@@ -30,7 +37,7 @@ namespace RestauranteAtual.API
                 {
                     Version = "v1",
                     Title = "RestauranteAtual.API",
-                    Description = "API CRUD para gestão de controle do Restaurante",
+                    Description = "API CRUD para gestão do Restaurante",
                     TermsOfService = new Uri("https://example.com/terms"),
                     Contact = new OpenApiContact
                     {
@@ -61,7 +68,7 @@ namespace RestauranteAtual.API
             app.UseSwagger();
             app.UseSwaggerUI(c =>
             {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Restaurante API");
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Prateleira API");
                 c.RoutePrefix = string.Empty;
             });
 

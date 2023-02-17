@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace RestauranteAtual.Infrastructure.Data.DataRegistration
 {
-    public static class DataRegsitration
+    public static class DataRegistration
     {
         public static IServiceCollection AddDataRegistration(
             this IServiceCollection services, IConfiguration configuration)

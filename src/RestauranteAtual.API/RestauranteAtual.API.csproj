@@ -8,7 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="FluentValidation" Version="11.5.0" />
-    <PackageReference Include="MediatR" Version="11.1.0" />
+    <PackageReference Include="MediatR" Version="12.0.0" />
     <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="7.0.3" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.3" />
@@ -23,12 +23,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\RestauranteAtual.Infrastructure.Data\RestauranteAtual.Infrastructure.Data.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Application\Restaurante\Handler\" />
-    <Folder Include="Application\Restaurante\Validation\" />
-    <Folder Include="Application\Restaurante\Query\" />
   </ItemGroup>
 
 </Project>

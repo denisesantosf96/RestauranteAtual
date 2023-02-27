@@ -19,7 +19,9 @@ namespace RestauranteAtual.Infrastructure.Data.DataRegistration
             {
                 options.UseSqlServer(configuration.GetConnectionString("sql_connection"));
             });
+
             services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+
             return services;
         }
     }

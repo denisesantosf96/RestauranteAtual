@@ -48,10 +48,6 @@
               "target": "Package",
               "version": "[11.5.0, )"
             },
-            "MediatR": {
-              "target": "Package",
-              "version": "[12.0.0, )"
-            },
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
               "version": "[7.0.3, )"
@@ -146,10 +142,6 @@
             "FluentValidation": {
               "target": "Package",
               "version": "[11.5.0, )"
-            },
-            "MediatR": {
-              "target": "Package",
-              "version": "[12.0.0, )"
             },
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",

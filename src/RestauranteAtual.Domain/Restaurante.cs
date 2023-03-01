@@ -37,5 +37,7 @@ namespace RestauranteAtual.Domain
         public int QuantidadeMesa { get; set; }
 
         public Mesa Mesa { get; set; }
+
+        public ICollection<Mesa> Mesas { get; set; } = default;
     }
 }

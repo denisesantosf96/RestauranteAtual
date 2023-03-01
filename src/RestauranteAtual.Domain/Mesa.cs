@@ -12,7 +12,7 @@ namespace RestauranteAtual.Domain
         public int IdRestaurante { get; set; }
         public string Localizacao { get; set; }
         public int NumeroDaMesa { get; set; }
-
+        public ICollection<Restaurante> Restaurantes { get; set; }
         public Restaurante Restaurante { get; set; }
         public Pedido Pedido { get; set; }
     }

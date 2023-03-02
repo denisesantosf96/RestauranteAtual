@@ -10,8 +10,7 @@ namespace RestauranteAtual.API.Application.Mesa.Validation
             RuleFor(x => x.IdRestaurante)
                 .Cascade(CascadeMode.Stop)
                 .NotNull()
-                .NotEmpty()
-                .Must(x => x.Length > 0);
+                .NotEmpty();
 
             RuleFor(x => x.Localizacao)
                 .NotNull()

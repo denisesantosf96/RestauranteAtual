@@ -17,8 +17,9 @@ namespace RestauranteAtual.API.Application.Restaurante.Handler
         {
             if (!request.Validation.IsValid)
             {
-               
-
+                return false;
+            }
+                
             var restaurante = new Domain.Restaurante
             {
                 Nome = request.Nome,
@@ -40,9 +41,7 @@ namespace RestauranteAtual.API.Application.Restaurante.Handler
                 .ConfigureAwait(false);
 
             return await _restauranteRepository.CommitAsync(cancellationToken)
-                .ConfigureAwait(false); return false;
-            }
-
+                .ConfigureAwait(false);        
         }
     }
 }

@@ -16,8 +16,11 @@ namespace RestauranteAtual.API.Application.Cliente.Handler
         {
             if (!request.Validation.IsValid)
             {
-                var cliente = new Domain.Cliente
-                {
+                return false;
+            }
+
+            var cliente = new Domain.Cliente
+            {
                     Nome = request.Nome,
                     CPF = request.CPF,
                     RG = request.RG,
@@ -31,14 +34,13 @@ namespace RestauranteAtual.API.Application.Cliente.Handler
                     CEP = request.CEP,
                     Genero = request.Genero,
                     DataNascimento = request.DataNascimento
-                };
+            };
 
                 await _clienteRepository.AddAsync(cliente, cancellationToken)
                     .ConfigureAwait(false);
 
                 return await _clienteRepository.CommitAsync(cancellationToken)
-                    .ConfigureAwait(false); return false;
-            }
+                    .ConfigureAwait(false);             
         }
     }
 }

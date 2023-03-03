@@ -16,7 +16,7 @@ namespace RestauranteAtual.Infrastructure.Data
 
         public DbSet<Restaurante> Restaurantes { get; set; }
         public DbSet<Mesa> Mesas { get; set; }
-        public DbSet<Cliente> Clientes { get; set; }
+        public DbSet<Cliente> Clientes { get; set; } 
         public DbSet<Garcom> Garcons { get; set; }
         public DbSet<Produto> Produtos { get; set; }
         public DbSet<Pedido> Pedidos { get; set; }

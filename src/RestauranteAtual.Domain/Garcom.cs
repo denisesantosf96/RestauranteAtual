@@ -11,7 +11,7 @@ namespace RestauranteAtual.Domain
         public int Id { get; set; }
         public string Nome { get; set; }
         public int Idade { get; set; }
-        public DateTime DataAdmissao { get; set; }
+        public DateTime? DataAdmissao { get; set; }
         public ItensPedido ItensPedido { get; set; }
     }
 }
